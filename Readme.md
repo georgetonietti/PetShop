@@ -18,7 +18,7 @@ Este projeto consiste em um website básico para um PetShop, com páginas para v
 ## Instruções de Uso
 
 1. Clone este repositório: `git clone https://github.com/georgetonietti/PetShop.git`
-2. Navegue até o diretório do projeto: `cd petshop-website`
+2. Navegue até o diretório do projeto: `cd PetShop`
 3. Abra o arquivo `index.html` em um navegador web para visualizar a página inicial.
 4. Explore as outras páginas do site através dos links na barra de navegação.
 
